@@ -1,0 +1,6 @@
+AppData/
+Google/
+*.log
+*.lock
+*.db
+*.tmp
