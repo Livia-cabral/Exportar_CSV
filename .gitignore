@@ -1,6 +1,16 @@
-AppData/
-Google/
+# Ignora pastas e arquivos do sistema
 *.log
-*.lock
-*.db
 *.tmp
+*.dat
+*.plist
+*.DS_Store
+Thumbs.db
+
+# Ignora arquivos de sistema Windows
+NTUSER.*
+*.lnk
+
+# Ignora diretórios do usuário
+/Downloads
+/Documents
+/Music
